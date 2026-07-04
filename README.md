@@ -132,7 +132,3 @@ MIT License - Free to use and modify
 For questions or support, please open an issue on GitHub.
 
 ---
-
-
-
-این README ساده و کامل هستش، همه اطلاعات ضروری رو داره و انگلیسی روان نوشته شده. 🚀
