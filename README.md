@@ -6,6 +6,13 @@ A simple and clean download manager dashboard to organize and manage your files 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
+## Me
+[![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
+[![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
+[![Gist](https://img.shields.io/badge/Gist-Profile-000000?style=for-the-badge&logo=github)](https://gist.github.com/erffanhub-00)
+[![Github](https://img.shields.io/badge/Github-Profile-000000?style=for-the-badge&logo=github)](https://github.com/erffanhub-00)
+
+---
 
 ## ✨ Features
 
@@ -109,26 +116,5 @@ To get a direct download link from Google Drive:
 1. Click **Import** in sidebar
 2. Select a `data.json` file
 3. Choose **Replace** or **Merge**
-
----
-
-## 🌐 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
----
-
-## 📝 License
-
-MIT License - Free to use and modify
-
----
-
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub.
 
 ---
